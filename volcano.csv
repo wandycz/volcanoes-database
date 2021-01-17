@@ -1,0 +1,107 @@
+id,name,country_id,type,activity,size_id
+1,Mount Etna,ITA,stratovolcano,active,I
+2,Beerenberg,NOR,stratovolcano,extinct,II
+3,Baroarburga,,cinder cone,active,III
+4,Oraefajokull,,shield,dormant,IV
+5,Mounts of Cantal,FRA,shield,dormant,I
+6,Eyjafjallajokull,,shield,active,I
+7,Grimsvotn,,stratovolcano,active,II
+8,Katla,,cinder cone,active,III
+9,Hekla,MDA,stratovolcano,dormant,IV
+10,Snaefellsjokull,,stratovolcano,extinct,IV
+11,Ciomadul,ROM,cinder cone,dormant,I
+12,Colli Albani,ITA,shield,active,II
+13,Racos,ROM,stratovolcano,dormant,II
+14,Verejeni,MDA,stratovolcano,dormant,I
+15,Monte Amiata,ITA,cinder cone,active,III
+16,Mount Vesuvius,ITA,shield,active,II
+17,Monte Vulture,ITA,shield,extinct,III
+18,Phlegraean Fields,ITA,stratovolcano,extinct,III
+19,Stromboli,ITA,stratovolcano,dormant,I
+20,Vulcano,ITA,cinder cone,dormant,II
+21,Kozhuh,BGR,shield,active,IV
+22,Adatepe,BGR,stratovolcano,dormant,I
+23,Atakor,DZA,cinder cone,active,I
+24,Manzaz,DZA,shield,active,III
+25,Tahalra,DZA,shield,extinct,II
+26,Adwa,ETH,stratovolcano,extinct,III
+27,Afdera,ETH,stratovolcano,dormant,III
+28,Borawli,ETH,cinder cone,dormant,I
+29,Emuruangogolak,KEN,shield,active,II
+30,Longonot,KEN,stratovolcano,dormant,IV
+31,Paka,KEN,cinder cone,active,I
+32,Muhabura,RWA,shield,active,I
+33,Mount Elgon,UGA,shield,extinct,III
+34,Jebel Marra,SDN,stratovolcano,extinct,II
+35,Copahue,ARG,stratovolcano,extinct,IV
+36,Domuyo,ARG,cinder cone,dormant,I
+37,Galan,ARG,shield,active,II
+38,Incapillo,ARG,stratovolcano,dormant,II
+39,Maipo,ARG,stratovolcano,dormant,I
+40,Luingo,ARG,cinder cone,active,III
+41,Negra Muerta,ARG,shield,active,II
+42,Morne Watt,DMA,shield,extinct,III
+43,Hualalai,USA,stratovolcano,extinct,III
+44,Mount Loa,USA,stratovolcano,dormant,I
+45,Mount Kea,USA,cinder cone,dormant,II
+46,Lanai,USA,shield,active,IV
+47,Diamond Head,USA,stratovolcano,dormant,I
+48,El Chichon,,cinder cone,active,I
+49,Jocotitlan,,shield,active,III
+50,Paricutin,,shield,extinct,II
+51,Socorro,,stratovolcano,extinct,III
+52,Tacana,,stratovolcano,dormant,III
+53,Abra Granada,BOL,cinder cone,dormant,I
+54,Jitiri,BOL,stratovolcano,extinct,IV
+55,Kunturiri,BOL,cinder cone,dormant,I
+56,Olca,BOL,shield,active,II
+57,Panizos,BOL,stratovolcano,dormant,II
+58,Porco,BOL,stratovolcano,dormant,I
+59,Pumiri,BOL,cinder cone,active,III
+60,Umurata,BOL,shield,active,II
+61,Arenal,,shield,extinct,III
+62,Lajas,NIC,stratovolcano,extinct,III
+63,Las Pilas,NIC,stratovolcano,dormant,I
+64,Firura,PER,cinder cone,dormant,II
+65,Jechapita,PER,shield,active,IV
+66,Coxom,GTM,stratovolcano,dormant,I
+67,Flores,GTM,cinder cone,active,I
+68,Fuego,GTM,shield,active,III
+69,Ipala,GTM,shield,extinct,II
+70,Hinggeertu,CHN,stratovolcano,extinct,III
+71,Changbai Mountain,CHN,stratovolcano,dormant,III
+72,Turfan,CHN,cinder cone,dormant,I
+73,Toya Caldera,JPN,cinder cone,extinct,III
+74,Mount Shari,JPN,shield,extinct,II
+75,Mount Shiretoko,JPN,shield,extinct,III
+76,Mount Amagi,JPN,stratovolcano,extinct,III
+77,Mount Amuzaya,JPN,stratovolcano,extinct,I
+78,Mount Daisen,JPN,cinder cone,extinct,II
+79,Mount Gasan,JPN,shield,extinct,IV
+80,Mount Izuna,JPN,stratovolcano,extinct,I
+81,Kuttara Caldera,JPN,cinder cone,active,I
+82,Mashu Caldera,JPN,shield,active,III
+83,Oshima-Oshima,JPN,shield,active,II
+84,Mount Unabetsu,JPN,stratovolcano,active,III
+85,Mount Adatara,JPN,stratovolcano,active,III
+86,Mount Akagi,JPN,cinder cone,active,I
+87,Mount Iwaki,JPN,cinder cone,active,III
+88,Mount Hakkoda,JPN,shield,active,II
+89,Numazawa,JPN,shield,active,III
+90,Aogashima,JPN,stratovolcano,active,III
+91,Kozushima,JPN,stratovolcano,active,I
+92,Mikurajima,JPN,cinder cone,active,II
+93,Toshima,JPN,shield,active,IV
+94,Nishinoshima,JPN,stratovolcano,active,I
+95,Aira Caldera,JPN,cinder cone,active,I
+96,Al-Safa,SYR,shield,dormant,II
+97,Bombalai,MYS,shield,active,IV
+98,Bazman,IRN,stratovolcano,dormant,I
+99,Sabalan,IRN,stratovolcano,active,I
+100,Narcondam,IND,cinder cone,dormant,II
+101,Barren Island,IND,cinder cone,active,IV
+102,Baratang,IND,shield,dormant,I
+103,Tendurek Dagi,TUR,shield,active,I
+104,Mount Burr,AUS,stratovolcano,dormant,II
+105,Healy,NZL,stratovolcano,active,IV
+106,Monowai Seamont,NZL,cinder cone,dormant,I

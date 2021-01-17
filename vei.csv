@@ -1,0 +1,10 @@
+﻿id,class,description,plume,ejecta_vol
+0,Hawaiian,effusive,< 100m,< 10^4 m3
+1,Hawaiian/Strombolian,gentle,100m - 1km,< 10^4 m3
+2,Strombolian/Vulcanian,explosive,1 - 5km,> 10^6 m3
+3,Vulcanian /Pelean/Sub-Plinian,catastrophic,3 - 15km,> 10^7 m3
+4,Pelean/Plinian/Sub-Plinian,cataclysmic,> 10 km (Plinian or sub-Plinian),> 0.1 km3
+5,Pelean/Plinian,paroxysmic,> 10 km (Plinian),> 1 km3
+6,Plinian/Ultra-Plinian,colossal,> 20 km,> 10 km3
+7,Ultra-Plinian,super - colossal,> 20 km,> 100 km3
+8,Ultra-Plinian,mega - colossal,> 20 km,> 1000 km3

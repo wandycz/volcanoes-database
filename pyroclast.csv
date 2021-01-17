@@ -1,0 +1,5 @@
+id,size,name
+1,> 64mm,bomb
+2,< 64mm,lapillus
+3,< 2mm,coarse ash
+4,< 0.063mm,fine ash

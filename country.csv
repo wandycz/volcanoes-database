@@ -1,0 +1,199 @@
+id,name,continent,area,capital_id
+NLD,Netherlands,Europe,41526,5
+ANT,Netherlands Antilles,North America,800,33
+ALB,Albania,Europe,28748,34
+ASM,American Samoa,Oceania,199,54
+AGO,Angola,Africa,1.25E+06,56
+AIA,Anguilla,North America,96,62
+ATG,Antigua and Barbuda,North America,442,63
+ARE,United Arab Emirates,Asia,83600,65
+ARG,Argentina,South America,2.78E+06,69
+AUS,Australia,Oceania,7.74E+06,135
+AZE,Azerbaijan,Asia,86600,144
+BHS,Bahamas,North America,13878,148
+BHR,Bahrain,Asia,694,149
+BGD,Bangladesh,Asia,143998,150
+BRB,Barbados,North America,430,174
+BEL,Belgium,Europe,30518,179
+BLZ,Belize,North America,22696,185
+BEN,Benin,Africa,112622,187
+BMU,Bermuda,North America,53,191
+BTN,Bhutan,Asia,47000,192
+BOL,Bolivia,South America,1.10E+06,194
+BIH,Bosnia and Herzegovina,Europe,51197,201
+BWA,Botswana,Africa,581730,204
+GBR,United Kingdom,Europe,242900,456
+VGB,"Virgin Islands, British",North America,151,537
+BRN,Brunei,Asia,5765,538
+BGR,Bulgaria,Europe,110994,539
+BFA,Burkina Faso,Africa,274000,549
+BDI,Burundi,Africa,27834,552
+CYM,Cayman Islands,North America,264,553
+CHL,Chile,South America,756626,554
+COK,Cook Islands,Oceania,236,583
+DJI,Djibouti,Africa,23200,585
+DMA,Dominica,North America,751,586
+ECU,Ecuador,South America,283561,594
+EGY,Egypt,Africa,1.00E+06,608
+SLV,El Salvador,North America,21041,645
+ERI,Eritrea,Africa,117600,652
+ZAF,South Africa,Africa,1.22E+06,716
+ETH,Ethiopia,Africa,1.10E+06,756
+FLK,Falkland Islands,South America,12173,763
+FJI,Fiji Islands,Oceania,18274,764
+PHL,Philippines,Asia,300000,766
+GAB,Gabon,Africa,267668,902
+GMB,Gambia,Africa,11295,904
+GHA,Ghana,Africa,238533,910
+GIB,Gibraltar,Europe,6,915
+GLP,Guadeloupe,North America,1705,919
+GTM,Guatemala,North America,108889,922
+GIN,Guinea,Africa,245857,926
+GNB,Guinea-Bissau,Africa,36125,927
+GUY,Guyana,South America,214969,928
+HND,Honduras,North America,112088,933
+HKG,Hong Kong,Asia,1075,937
+SJM,Svalbard and Jan Mayen,Europe,62422,938
+IDN,Indonesia,Asia,1.90E+06,939
+IND,India,Asia,3.29E+06,1109
+IRQ,Iraq,Asia,438317,1365
+IRN,Iran,Asia,1.65E+06,1380
+IRL,Ireland,Europe,70273,1447
+ITA,Italy,Europe,301316,1464
+AUT,Austria,Europe,83859,1523
+JAM,Jamaica,North America,10990,1530
+JPN,Japan,Asia,377829,1532
+YEM,Yemen,Asia,527968,1780
+JOR,Jordan,Asia,88946,1786
+KHM,Cambodia,Asia,181035,1800
+CAN,Canada,North America,9.97E+06,1822
+KAZ,Kazakstan,Asia,2.72E+06,1864
+KEN,Kenya,Africa,580367,1881
+CHN,China,Asia,9.57E+06,1891
+KGZ,Kyrgyzstan,Asia,199900,2253
+KIR,Kiribati,Oceania,726,2256
+COM,Comoros,Africa,1862,2295
+COG,Congo,Africa,342000,2296
+COD,"Congo, The Democratic Republic of the",Africa,2.34E+06,2298
+CCK,Cocos (Keeling) Islands,Oceania,14,2317
+PRK,North Korea,Asia,120538,2318
+GRC,Greece,Europe,131626,2401
+CUB,Cuba,North America,110861,2413
+KWT,Kuwait,Asia,17818,2429
+CYP,Cyprus,Asia,9251,2430
+LAO,Laos,Asia,236800,2432
+LVA,Latvia,Europe,64589,2434
+LSO,Lesotho,Africa,30355,2437
+LBN,Lebanon,Asia,10400,2438
+LBR,Liberia,Africa,111369,2440
+LBY,Libyan Arab Jamahiriya,Africa,1.76E+06,2441
+LIE,Liechtenstein,Europe,160,2446
+LTU,Lithuania,Europe,65301,2447
+MAC,Macao,Asia,18,2454
+MKD,Macedonia,Europe,25713,2460
+MWI,Malawi,Africa,118484,2462
+MDV,Maldives,Asia,298,2463
+MYS,Malaysia,Asia,329758,2464
+MLI,Mali,Africa,1.24E+06,2482
+MLT,Malta,Europe,316,2484
+MAR,Morocco,Africa,446550,2486
+MHL,Marshall Islands,Oceania,181,2507
+MTQ,Martinique,North America,1102,2508
+MRT,Mauritania,Africa,1.03E+06,2509
+MUS,Mauritius,Africa,2040,2511
+MYT,Mayotte,Africa,373,2514
+FSM,"Micronesia, Federated States of",Oceania,702,2689
+MDA,Moldova,Europe,33851,2690
+MCO,Monaco,Europe,1.5,2695
+MNG,Mongolia,Asia,1.57E+06,2696
+MSR,Montserrat,North America,102,2697
+MOZ,Mozambique,Africa,801590,2698
+MMR,Myanmar,Asia,676578,2710
+NAM,Namibia,Africa,824292,2726
+NRU,Nauru,Oceania,21,2728
+NPL,Nepal,Asia,147181,2729
+NIC,Nicaragua,North America,130000,2734
+NER,Niger,Africa,1.27E+06,2738
+NGA,Nigeria,Africa,923768,2754
+NIU,Niue,Oceania,260,2805
+NFK,Norfolk Island,Oceania,36,2806
+NOR,Norway,Europe,323877,2807
+OMN,Oman,Asia,309500,2821
+PAK,Pakistan,Asia,796095,2831
+PLW,Palau,Oceania,459,2881
+PNG,Papua New Guinea,Oceania,462840,2884
+PER,Peru,South America,1.29E+06,2890
+PCN,Pitcairn,Oceania,49,2912
+MNP,Northern Mariana Islands,Oceania,464,2913
+PRI,Puerto Rico,North America,8875,2919
+POL,Poland,Europe,323250,2928
+GNQ,Equatorial Guinea,Africa,28051,2972
+QAT,Qatar,Asia,11000,2973
+FRA,France,Europe,551500,2974
+GUF,French Guiana,South America,90000,3014
+PYF,French Polynesia,Oceania,4000,3016
+REU,R?union,Africa,2510,3017
+ROM,Romania,Europe,238391,3018
+RWA,Rwanda,Africa,26338,3047
+SWE,Sweden,Europe,449964,3048
+SHN,Saint Helena,Africa,314,3063
+KNA,Saint Kitts and Nevis,North America,261,3064
+LCA,Saint Lucia,North America,622,3065
+VCT,Saint Vincent and the Grenadines,North America,388,3066
+SPM,Saint Pierre and Miquelon,North America,242,3067
+DEU,Germany,Europe,357022,3068
+SLB,Solomon Islands,Oceania,28896,3161
+ZMB,Zambia,Africa,752618,3162
+WSM,Samoa,Oceania,2831,3169
+SMR,San Marino,Europe,61,3171
+SAU,Saudi Arabia,Asia,2.15E+06,3173
+SEN,Senegal,Africa,196722,3198
+SYC,Seychelles,Africa,455,3206
+SLE,Sierra Leone,Africa,71740,3207
+SGP,Singapore,Asia,618,3208
+SVK,Slovakia,Europe,49012,3209
+SVN,Slovenia,Europe,20256,3212
+SOM,Somalia,Africa,637657,3214
+LKA,Sri Lanka,Asia,65610,3217
+SDN,Sudan,Africa,2.51E+06,3225
+FIN,Finland,Europe,338145,3236
+SUR,Suriname,South America,163265,3243
+SWZ,Swaziland,Africa,17364,3244
+CHE,Switzerland,Europe,41284,3248
+SYR,Syria,Asia,185180,3250
+TJK,Tajikistan,Asia,143100,3261
+TZA,Tanzania,Africa,883749,3306
+THA,Thailand,Asia,513115,3320
+TKL,Tokelau,Oceania,12,3333
+TTO,Trinidad and Tobago,North America,5130,3336
+CZE,Czech Republic,Europe,78866,3339
+TUN,Tunisia,Africa,163610,3349
+TUR,Turkey,Asia,774815,3358
+TKM,Turkmenistan,Asia,488100,3419
+TCA,Turks and Caicos Islands,North America,430,3423
+TUV,Tuvalu,Oceania,26,3424
+UGA,Uganda,Africa,241038,3425
+HUN,Hungary,Europe,93030,3483
+NZL,New Zealand,Oceania,270534,3499
+UZB,Uzbekistan,Asia,447400,3503
+WLF,Wallis and Futuna,Oceania,200,3536
+VUT,Vanuatu,Oceania,12189,3537
+VEN,Venezuela,South America,912050,3539
+RUS,Russian Federation,Europe,1.71E+07,3580
+EST,Estonia,Europe,45227,3791
+USA,United States,North America,9.36E+06,3813
+VIR,"Virgin Islands, U.S.",North America,347,4067
+ZWE,Zimbabwe,Africa,390757,4068
+PSE,Palestine,Asia,6257,4074
+IOT,British Indian Ocean Territory,Africa,78,
+SGS,South Georgia and the South Sandwich Islands,Antarctica,3903,
+HMD,Heard Island and McDonald Islands,Antarctica,359,
+ATF,French Southern territories,Antarctica,7780,
+UMI,United States Minor Outlying Islands,Oceania,16,
+CIV,C?te d'Ivoire,Africa,322463,2814
+DZA,Algeria,Africa,2.38E+06,35
+GEO,Georgia,Asia,69700,905
+ISR,Israel,Asia,21056,1450
+TWN,Taiwan,Asia,36188,3263
+ATA,Antarctica,Antarctica,1.31E+07,
+AND,Andorra,Europe,468,55

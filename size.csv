@@ -1,0 +1,5 @@
+id,name,relative_h
+I,small,< 50m
+II,medium,50 - 799m
+III,big,800 - 1500m
+IV,very big,> 1500m
